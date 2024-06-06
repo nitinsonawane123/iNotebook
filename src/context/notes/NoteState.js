@@ -38,7 +38,16 @@ const NoteState = (props) =>{
           "tag": "YouTube",
           "date": "2024-06-06T04:25:09.413Z",
           "__v": 0
-        }
+        },
+        {
+            "_id": "66613a25f43d3d8c41d82d6b",
+            "user": "665f03fcc6a1d572c40409b1",
+            "title": "New Note Added",
+            "description": "Please access the playlists",
+            "tag": "YouTube",
+            "date": "2024-06-06T04:25:09.413Z",
+            "__v": 0
+          }
       ]
       const [notes, setNotes] = useState(notesInitial)
   
