@@ -40,7 +40,7 @@ const NoteState = (props) =>{
           "__v": 0
         },
         {
-            "_id": "66613a25f43d3d8c41d82d6b",
+            "_id": "66613a25f43d3d8c41d82d6b1",
             "user": "665f03fcc6a1d572c40409b1",
             "title": "New Note Added",
             "description": "Please access the playlists",
